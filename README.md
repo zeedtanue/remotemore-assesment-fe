@@ -1,7 +1,13 @@
-# Getting Started with Create React App
+# RemoteMore Assesment Frontend
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to install
+
+ - Clone or download the repository.
+ - Run `yarn` in the commandline
+ - Run `yarn start` to run the project
 ## Available Scripts
 
 In the project directory, you can run:
